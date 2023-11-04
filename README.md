@@ -1,1 +1,2 @@
-# React Note App
+# Notes App
+# Built with React and Firebase 
